@@ -1,0 +1,227 @@
+3
+
+                                Kapitel 3
+
+  Fische, Krebstiere, Weichtiere und andere wirbellose
+                    Wassertiere
+
+
+                                    Anmerkungen
+
+
+1.  Dieses Kapitel umfasst nicht:
+    a.  Säugetiere des Kapitels 1;
+    b.  Zubereitungen von Fischen, Krebstieren, Weichtieren oder anderen wirbellosen Wassertieren
+        des Kapitels 16;
+    c.  Kaviar und Kaviarersatz des Kapitels 16;
+    d.  Kulturen von Mikroorganismen und andere Erzeugnisse der Nr. 3002;
+    e.  Tiere des Kapitels 95 (z.B. Aquarium-Fische, Muschelschalen).
+
+
+
+
+
+                                              1
+
+
+
+
+
+
+
+                                   Kapitel 3 - Erlaeuterungen
+
+
+
+
+                                    ISZK-Erlaeuterungen:
+
+
+0301
+
+Zur Nr. 0301 gehören Fische, lebend:
+   0301.11:  Zierfische, Süsswasser
+   0301.19:  Zierfische, Meer
+   0301.91:  Forellen (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita,
+             Oncorhynchus gilae, Oncorhynchus apache und Oncorhynchus chrysogaster)
+   0301.92:  Aale (Anguilla spp.)
+   0301.93:  Karpfen (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp.,
+             Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,
+             Leptobarbus hoeveni, Megalobrama spp.)
+   0301.94:  Bläuflossenthunfisch des Atlantiks und des Pazifiks (Thunnus thynnus, Thunnus orientalis)
+   0301.95:  Südl. Bläuflossenthunfisch (Thunnus maccoyii)
+   0301.99:  Andere Fische
+
+
+0302
+
+Zur Nr. 0302 gehören Fische, frisch oder gekühlt, ausgenommen Fischfilets und anderes Fischfleisch
+der Nr. 0304:
+   0302.11:  Forellen (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita,
+             Oncorhynchus gilae, Oncorhynchus apache und Oncorhynchus chrysogaster)
+   0302.13:  Atlantischer Lachs und Pazifischer Lachs (Salmo salar und Oncorhynchus spp.)
+   0302.14:  Pazifischer Lachs (nur Oncorhynchus spp.)
+   0302.19:  Andere Lachse der Familie Salmonidae
+   0302.21:  Plattfische (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae und
+             Citharidae)
+   0302.22:  Heilbutt (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)
+   0302.23:  Seezungen (Solea spp.)
+   0302.24:  Turbots (Psetta maxima)
+   0302.29:  Andere
+   0302.31:  Weissbarsch (Thunnus alalunga)
+   0302.32:  Gelbflossenthunfisch (Thunnus albacares)
+   0302.33:  Bonito (Katsuwonus pelamis)
+   0302.34:  Bläuflossenthunfisch des Atlantiks (Thunnus thynnus)
+   0302.35:  Südl. Bläuflossenthunfisch (Thunnus maccoyii)
+   0302.36:  Bläuflossenthunfisch des Pazifiks (Thunnus orientalis)
+   0302.39:  Andere
+   0302.41:  Heringe (Clupea harengus, Clupea pallasii)
+   0302.42:  Sardinen (Sardina pilchardus, Sardinops spp.), Sardinellen (Sardinella spp.) und
+             Sprotten (Sprattus sprattus)
+   0302.43:  Makrelen (Scomber scombrus, Scomber australasicus, Scomber japonicus)
+   0302.44:  Atlantischer Makrelenhai (Lamna nasus)
+   0302.45:  Rochen (Rajidae)
+   0302.46:  Bläuflossenmakrelen (Thunnus thynnus und Thunnus orientalis)
+   0302.47:  Schwertfisch (Xiphias gladius)
+   0302.49:  Andere
+   0302.51:  Kabeljau (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+   0302.52:  Schellfisch (Melanogrammus aeglefinus)
+   0302.53:  Köhler (Pollachius virens)
+   0302.54:  Seehecht (Merluccius spp., Urophycis spp.)
+   0302.55:  Alaska-Seelachs (Theragra chalcogramma)
+   0302.56:  Blauer Wittling (Micromesistius poutassou)
+   0302.57:  Wels (Silurus spp.)
+   0302.59:  Andere
+   0302.71:  Tilapia (Oreochromis spp.)
+   0302.72:  Wels (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+   0302.73:  Karpfen (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp.,
+             Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,
+             Leptobarbus hoeveni, Megalobrama spp.)
+   0302.74:  Aale (Anguilla spp.)
+   0302.79:  Andere
+   0302.81:  Haie
+   0302.85:  Rochen (Rajidae)
+   0302.89:  Andere
+   0302.90:  Lebern, Rogen und Milch
+
+
+0303
+
+Zur Nr. 0303 gehören Fische, gefroren, ausgenommen Fischfilets und anderes Fischfleisch der Nr. 0304:
+   0303.11:  Pazifischer Lachs (Oncorhynchus nerka)
+   0303.12:  Anderer Pazifischer Lachs
+   0303.13:  Atlantischer Lachs (Salmo salar) und Donaulachs (Hucho hucho)
+   0303.14:  Pazifischer Lachs (nur Oncorhynchus spp.)
+   0303.19:  Andere Lachse der Familie Salmonidae
+   0303.23:  Heilbutt (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)
+   0303.24:  Plattfische (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae und
+             Citharidae)
+   0303.29:  Andere Plattfische
+   0303.31:  Weissbarsch (Thunnus alalunga)
+   0303.32:  Gelbflossenthunfisch (Thunnus albacares)
+   0303.33:  Bonito (Katsuwonus pelamis)
+   0303.34:  Bläuflossenthunfisch des Atlantiks (Thunnus thynnus)
+   0303.35:  Südl. Bläuflossenthunfisch (Thunnus maccoyii)
+   0303.36:  Bläuflossenthunfisch des Pazifiks (Thunnus orientalis)
+   0303.39:  Andere
+   0303.41:  Heringe (Clupea harengus, Clupea pallasii)
+   0303.42:  Sardinen (Sardina pilchardus, Sardinops spp.), Sardinellen (Sardinella spp.) und
+             Sprotten (Sprattus sprattus)
+   0303.43:  Makrelen (Scomber scombrus, Scomber australasicus, Scomber japonicus)
+   0303.44:  Atlantischer Makrelenhai (Lamna nasus)
+   0303.45:  Rochen (Rajidae)
+   0303.46:  Bläuflossenmakrelen (Thunnus thynnus und Thunnus orientalis)
+   0303.47:  Schwertfisch (Xiphias gladius)
+   0303.49:  Andere
+   0303.51:  Kabeljau (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+   0303.52:  Schellfisch (Melanogrammus aeglefinus)
+   0303.53:  Köhler (Pollachius virens)
+   0303.54:  Seehecht (Merluccius spp., Urophycis spp.)
+   0303.55:  Alaska-Seelachs (Theragra chalcogramma)
+   0303.56:  Blauer Wittling (Micromesistius poutassou)
+   0303.57:  Wels (Silurus spp.)
+   0303.59:  Andere Fische
+   0303.63:  Kabeljaurochen (Rajidae)
+   0303.64:  Seehecht (Merluccius spp., Urophycis spp.)
+   0303.65:  Haie
+   0303.66:  Rochen (Rajidae)
+   0303.69:  Andere
+   0303.71:  Tilapia (Oreochromis spp.)
+   0303.72:  Wels (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+   0303.73:  Karpfen (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp.,
+             Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti,
+             Leptobarbus hoeveni, Megalobrama spp.)
+   0303.74:  Aale (Anguilla spp.)
+   0303.79:  Andere
+   0303.81:  Haie
+   0303.82:  Rochen (Rajidae)
+   0303.83:  Andere Haie
+   0303.89:  Andere
+   0303.90:  Lebern, Rogen und Milch
+
+
+0304
+
+Zur Nr. 0304 gehören Fischfilets und anderes Fischfleisch (auch fein zerkleinert), frisch, gekühlt oder
+gefroren:
+   0304.31:  Tilapia (Oreochromis spp.), frisch oder gekühlt
+   0304.32:  Wels (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), frisch oder gekühlt
+   0304.33:  Nilbarsch (Lates niloticus), frisch oder gekühlt
+   0304.34:  Andere Süsswasserfische, frisch oder gekühlt
+   0304.39:  Andere, frisch oder gekühlt
+   0304.41:  Pazifischer Lachs (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta,
+             Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou und Oncorhynchus
+             rhodurus), Atlantischer Lachs (Salmo salar) und Donaulachs (Hucho hucho), frisch oder gekühlt
+   0304.42:  Forellen (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita,
+             Oncorhynchus gilae, Oncorhynchus apache und Oncorhynchus chrysogaster), frisch oder gekühlt
+   0304.43:  Plattfische (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae und
+             Citharidae), frisch oder gekühlt
+   0304.44:  Fische der Familie Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae,
+             Merlucciidae, Moridae und Muraenolepididae, frisch oder gekühlt
+   0304.45:  Schwertfisch (Xiphias gladius), frisch oder gekühlt
+   0304.46:  Bonito (Katsuwonus pelamis), frisch oder gekühlt
+   0304.47:  Thunfisch, frisch oder gekühlt
+   0304.48:  Haie, frisch oder gekühlt
+   0304.49:  Andere Seefische, frisch oder gekühlt
+   0304.51:  Tilapia (Oreochromis spp.), gefroren
+   0304.52:  Wels (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), gefroren
+   0304.53:  Nilbarsch (Lates niloticus), gefroren
+   0304.54:  Andere Süsswasserfische, gefroren
+   0304.59:  Andere, gefroren
+   0304.61:  Tilapia (Oreochromis spp.), gefroren, Filets
+   0304.62:  Wels (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), gefroren, Filets
+   0304.63:  Nilbarsch (Lates niloticus), gefroren, Filets
+   0304.69:  Andere Süsswasserfische, gefroren, Filets
+   0304.71:  Pazifischer Lachs (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta,
+             Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou und Oncorhynchus
+             rhodurus), Atlantischer Lachs (Salmo salar) und Donaulachs (Hucho hucho), gefroren, Filets
+   0304.72:  Forellen (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita,
+             Oncorhynchus gilae, Oncorhynchus apache und Oncorhynchus chrysogaster), gefroren, Filets
+   0304.73:  Plattfische (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae und
+             Citharidae), gefroren, Filets
+   0304.74:  Fische der Familie Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae,
+             Merlucciidae, Moridae und Muraenolepididae, gefroren, Filets
+   0304.75:  Schwertfisch (Xiphias gladius), gefroren, Filets
+   0304.76:  Bonito (Katsuwonus pelamis), gefroren, Filets
+   0304.77:  Thunfisch, gefroren, Filets
+   0304.78:  Haie, gefroren, Filets
+   0304.79:  Andere Seefische, gefroren, Filets
+   0304.81:  Tilapia (Oreochromis spp.), gefroren
+   0304.82:  Wels (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), gefroren
+   0304.83:  Nilbarsch (Lates niloticus), gefroren
+   0304.84:  Andere Süsswasserfische, gefroren
+   0304.85:  Alaska-Seelachs (Theragra chalcogramma), gefroren
+   0304.86:  Fische der Familie Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae,
+             Merlucciidae, Moridae und Muraenolepididae, gefroren, andere
+   0304.87:  Schwertfisch (Xiphias gladius), gefroren
+   0304.89:  Andere, gefroren
+   0304.91:  Schwertfisch (Xiphias gladius), gefroren, anderes Fischfleisch
+   0304.92:  Andere, anderes Fischfleisch (z.B. fein zerkleinert)
+   0304.93:  Andere, gefroren, fein zerkleinert
+   0304.94:  Andere, gefroren, anderes
+   0304.99:  Andere
+
+
+
+
+                                              2

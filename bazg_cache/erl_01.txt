@@ -1,0 +1,102 @@
+1
+
+                                          Kapitel 1
+
+                                        Lebende Tiere
+
+
+                                    Anmerkungen
+
+
+1.  Dieses Kapitel umfasst alle lebenden Tiere, ausgenommen:
+    a.  Fische und Krebstiere, Weichtiere und andere wirbellose Wassertiere des Kapitels 3;
+    b.  Kulturen von Mikroorganismen und andere Erzeugnisse der Nr. 3002;
+    c.  Tiere des Kapitels 95 (z.B. Zirkustiere).
+
+
+
+
+
+
+
+
+
+
+
+
+                                              1
+
+
+
+
+
+
+
+                                   Kapitel 1 - Erlaeuterungen
+
+
+
+
+                                    ISZK-Erlaeuterungen:
+
+
+1001
+
+Dieses Kapitel umfasst alle lebenden Tiere, ausgenommen:
+
+        a) Fische und Krebstiere, Weichtiere und andere wirbellose Wassertiere des Kapitels 3;
+
+        b) Kulturen von Mikroorganismen und andere Erzeugnisse der Nr. 3002;
+
+        c) Tiere des Kapitels 95 (z.B. Zirkustiere).
+
+Zur Nr. 0101 gehören Pferde, Esel, Maulesel und Maultiere, lebend.
+
+Einreihungshinweise:
+   0101.10:  Reinrassige Zuchttiere
+   0101.90:  Andere (nicht reinrassige)
+
+Zur Nr. 0102 gehören Rinder, lebend.
+
+   0102.10: Reinrassige Zuchttiere
+   0102.21: Andere Hausrinder
+
+Zur Nr. 0103 gehören Schweine, lebend.
+   0103.10:  Reinrassige Zuchttiere
+   0103.91: andere, unter 50 kg
+   0103.92: andere, 50 kg oder mehr
+
+Zur Nr. 0104 gehören Schafe und Ziegen, lebend.
+   0104.10:  Schafe
+   0104.20:  Ziegen
+
+Zur Nr. 0105 gehören Geflügel der Haustierhaltung (Truthahn, Enten, Gänse, Hahn, Perlhuhn), lebend.
+   0105.11:  Truthahn (unter 185g)
+   0105.12:  Enten (unter 185g)
+   0105.13:  Gänse (unter 185g)
+   0105.14:  Perlhühner (unter 185g)
+   0105.15:  Hühner (unter 185g)
+   0105.94:  Truthahn (185g oder mehr)
+   0105.99:  Andere (185g oder mehr, Enten, Gänse, Perlhühner, Hühner)
+
+Zur Nr. 0106 gehören andere Tiere, lebend.
+   0106.11:  Primaten
+   0106.12:  Wale, Delphine und Schweinswale (Säugetiere der Ordnung Cetacea); Seekühe und See-
+             elephanten (Säugetiere der Ordnung Sirenia); Robben, Seelöwen und Walrosse (Tiere der
+             Unterordnung Pinnipedia)
+   0106.13:  Kamele und andere Kameltiere (Camelidae)
+   0106.14:  Kaninchen
+   0106.19:  Andere Säugetiere
+   0106.20:  Reptilien
+   0106.31:  Adler, Falken, Habichte, Ged, Glänzsittiche und Kakadus
+   0106.32:  Papageien, Papageienvogel (einschliesslich Sittiche)
+   0106.33:  Strausse; Emus (Dromaius novaehollandiae)
+   0106.39:  Andere Vögel
+   0106.41:  Bienen
+   0106.49:  Andere Insekten
+   0106.90:  Andere
+
+
+
+
+                                              2
