@@ -1,0 +1,111 @@
+72 Eisen und Stahl
+Anmerkungen
+1. In diesem Kapitel gelten folgende Ausdrücke:
+   a) «Roheisen»: Legierungen aus Eisen und Kohlenstoff mit einem Kohlenstoffgehalt von mehr als
+      2 Gewichtsprozent und einem oder mehreren anderen Elementen, mit folgenden Eigenschaften:
+      - mit einem Siliziumgehalt von 0,5 Gewichtsprozent oder mehr, einem Mangangehalt von weni-
+        ger als 30 Gewichtsprozent, einem Phosphorgehalt von weniger als 3 Gewichtsprozent und ei-
+        nem Schwefelgehalt von weniger als 2,5 Gewichtsprozent;
+      - oder ein Chromgehalt von 30 Gewichtsprozent oder mehr, sowie möglicherweise andere Ele-
+        mente, einschliesslich Kohlenstoff mit einem Kohlenstoffgehalt von weniger als dem des
+        Chroms; und ebenfalls Chromlegierungen der vorstehend aufgeführten Art.
+   b) «Spiegeleisen»: Legierungen aus Eisen und Kohlenstoff mit einem Kohlenstoffgehalt von mehr
+      als 2 Gewichtsprozent, einem Mangangehalt von 6 bis 30 Gewichtsprozent und anderen Ele-
+      menten.
+   c) «Ferrolegierungen»: Legierungen aus Eisen und einem oder mehreren anderen Elementen, mit
+      folgenden Eigenschaften:
+      - mit einem Eisengehalt von mehr als 4 Gewichtsprozent; und
+      - aus denen ein oder mehrere dieser anderen Elemente mehr als 10 Gewichtsprozent der Le-
+        gierung ausmachen:
+        Aluminium, Bor, Chrom, Kobalt, Kupfer, Mangan, Molybdän, Niob, Silizium, Titan, Vanadium,
+        Wolfram, Seltene Erdelemente, Phosphor, Schwefel oder Zirkonium.
+   d) «Rostfreier Stahl»: legierter Stahl mit einem Chromgehalt von 1,2 Gewichtsprozent oder mehr
+      und einem Kohlenstoffgehalt von 0,5 Gewichtsprozent oder weniger.
+   e) Andere legierte Stähle: andere als «rostfreier Stahl» und als die weiter unten definierten
+      Schnellarbeitsstähle; Stahl mit einem Gehalt von einem oder mehreren Elementen von mindestens
+      folgenden Anteilen:
+      0,3 Gewichtsprozent Aluminium, 0,0008 Gewichtsprozent Bor, 0,3 Gewichtsprozent Chrom (nicht
+      jedoch für unlegierte Stähle nach Buchstabe f), 0,3 Gewichtsprozent Kobalt, 0,4 Gewichtsprozent
+      Kupfer (nicht für unlegierte Stähle nach Buchstabe f), 1,65 Gewichtsprozent Mangan (nicht für
+      unlegierte Stähle nach Buchstabe f), 0,08 Gewichtsprozent Molybdän, 0,01 Gewichtsprozent Nio-
+      bium, 0,6 Gewichtsprozent Silizium (nicht für unlegierte Stähle nach Buchstabe f), 0,05 Gewichts-
+      prozent Titan, 0,3 Gewichtsprozent Wolfram, 0,1 Gewichtsprozent Vanadium, 0,05 Gewichtspro-
+      zent Zirkonium, 0,1 Gewichtsprozent seltene Erdelemente, 0,0025 Gewichtsprozent seltene Erd-
+      elemente für Stähle mit Mangan oder Silizium oder anderen Elementen in diesem Sinne.
+   f) «Unlegierter Stahl»: Stahl, der nicht den Anforderungen an andere legierte Stähle nach Buch-
+      stabe e) entspricht.
+   g) «Siliziumelektrostahl»: legierter Stahl mit einem Siliziumgehalt von 0,6 Gewichtsprozent oder
+      mehr, einem Kohlenstoffgehalt von 0,08 Gewichtsprozent oder weniger, keinem oder weniger als
+      1 Gewichtsprozent an Aluminium und ohne anderen Legierungsbestandteil ausser möglicherweise
+      etwas Mangan und Phosphor.
+   h) Als «Halbzeug» gilt Stahl folgender Art:
+      - Rohblöcke und Brammen, rechteckigen (einschliesslich quadratischen) Querschnitts mit einer
+        Breite von weniger als dem Doppelten der Dicke;
+      - Knüppel und Vorblöcke (Luppen), rechteckigen (einschliesslich quadratischen) Querschnitts;
+      - Vorbrammen, rechteckigen Querschnitts mit einer Breite mehr als dem Doppelten der Dicke;
+      - kreisrunden Querschnitts;
+      - Rohbrammen im Endlosguss.
+   ij) Als «Flachgewalzte Erzeugnisse» gilt Stahl folgender Art:
+      - gewalzte Erzeugnisse, rechteckigen (einschliesslich quadratischen) Querschnitts, anders als
+        gemäss Buchstaben h) oder j), mit einer Breite von mindestens dem Doppelten der Dicke,
+        wobei:\n      - für gewalzte Erzeugnisse mit einer Breite von mehr als 500 mm gilt, dass die nachstehende
+        Bezeichnung je nach Erzeugnisbreite das Wort «Blech», «Band», «Breitflachstahl» oder «Uni-
+        versalstahl» gilt;
+      - für gewalzte Erzeugnisse mit einer Breite von 500 mm oder weniger gilt das Wort «Band».
+   j) Als «Walzdraht» gilt Stahl folgender Art:
+      - in Walzdraht, in Ringen gewickelter Walzdraht und in Windungen;
+      - der in Walzdrahtform aus nichtrostendem Stahl hergestellt wird.
+   k) «Stabstahl»: andere als Walzdraht der Buchstaben j), mit einem runden, ovalen, rechteckigen
+      (einschliesslich quadratischen), dreieckigen oder sechseckigen oder auf andere Weise konvexen
+      Querschnitt (einschliesslich abgeflachtem Kreis), der auch Rillen, Rippen, Wulste, Verdrehungen
+      oder andere Verformungen aufweisen kann, die beim Walzen entstanden sind (Rippenrundstahl).
+   l) Als «Hohlbohrerstähle» gilt Stahl in Stäben mit einem Hohlkern, der für Gesteinsbohrer vorgese-
+      hen ist.
+   m) Als «Stahlspundwände» (Spundbohlen) gilt eine Ware mit formschlüssigen Verbindungselemente-
+      n (Schloss), die im Bauwesen, zum Eindämmen von Boden und Wasser oder zum Unterfangen von
+      Gebäuden eingesetzt wird.
+   n) Als «Winkel, Profile und Sonderprofile» gilt Stahl folgender Art:
+      - Winkel (L-Profile): rollgeformte Erzeugnisse aus Stahl mit einem L-förmigen Querschnitt;
+      - T-Profile: rollgeformte Erzeugnisse aus Stahl mit einem T-förmigen Querschnitt;
+      - I-Profile: rollgeformte Erzeugnisse aus Stahl mit einem I-förmigen Querschnitt;
+      - H-Profile: rollgeformte Erzeugnisse aus Stahl mit einem H-förmigen Querschnitt;
+      - U-Profile: rollgeformte Erzeugnisse aus Stahl mit einem U-förmigen Querschnitt;
+      - Doppel-T-Profile (IPN): rollgeformte Erzeugnisse aus Stahl mit einem Doppel-T-förmigen
+        Querschnitt;
+      - Weit- und Breitflanschprofile (IPE und HE): rollgeformte Erzeugnisse aus Stahl mit einem
+        I-förmigen Querschnitt;
+      - Z-Profile: rollgeformte Erzeugnisse aus Stahl mit einem Z-förmigen Querschnitt;
+      - sonstige Profile: Erzeugnisse aus Stahl mit anderen Querschnitten als den vorstehend ge-
+        nannten.
+   o) Als «Rohre, Hohlprofile und Rohrformstücke, Rohrverschlussstücke und Rohrverbindungsstücke»
+      gilt Stahl folgender Art:
+      - Hohlprofile mit rundem, viereckigem, rechteckigem, dreieckigem oder andersartigem Quer-
+        schnitt;
+      - Rohre mit rundem oder anderen Querschnitten.
+   p) Als «Rohre und Hohlprofile, nahtlos» gilt Stahl folgender Art:
+      - durch Heraus-Bohren oder Strecken oder in anderer Weise aus einem Vollkörper hergestellte
+        Hohlprofile;
+      - durch Warmverformung oder Kaltumformung hergestellte Rohre.
+
+2. «Halbzeug» und «unlegierter Stahl» können für einen bestimmten Zweck veredelt werden (z.B.
+   durch Hitzebehandlung, Oberflächenbehandlung), ohne ihren Status als «Halbzeug» oder «unlegie-
+   rter Stahl» zu verlieren, sofern das Veredelungsverfahren nicht spezifisch ist.
+3. Zum Kapitel 73 und nicht zu diesem Kapitel gehören:
+   a) Waren des Kapitels 82 (Werkzeuge);
+   b) Waren des Kapitels 83.
+4. Im Sinne dieses Kapitels ist die Anmerkung 1 zu Abschnitt XV sinngemäss anzuwenden.
+5. Legierungen aus Eisen und Nichteisenmetallen, die sowohl die Anforderungen von Abschnitt XV an
+   die Einstufung als Eisenlegierungen als auch die Anforderungen an die Einstufung als Nichteisenme-
+   talllegierungen erfüllen, werden als Eisenlegierungen eingestuft.
+
+
+Unternummern-Anmerkungen
+1. In diesem Kapitel gelten folgende Ausdrücke:
+   a) «Halbzeug aus nicht rostendem Stahl» oder «Stahl»:
+   b) Als «Knüppel aus nicht rostendem Stahl» gilt ein aus Abfällen oder aus Schrott von nicht rosten-
+      dem Stahl durch Einschmelzen gewonnenes Halbzeug mit weniger als 140 mm in der Breite und
+      weniger als 140 mm in der Dicke, jedoch mit einer Länge von mehr als 350 mm.
+
+
+
+                                           1 (Stand: 1.1.2022)
